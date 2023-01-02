@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.pdb
+.vs/
+.gitignore.swn
+.gitignore.swo
+.gitignore.swp
+
